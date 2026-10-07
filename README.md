@@ -1,6 +1,4 @@
-# DFW Landscaping Demo Sites
+# 7Acre Digital example work
 
-Concept website previews built by 7Acre Digital (static HTML). Portfolio: index.html
-
-These are pitch demos, not official business websites. All pages are marked `noindex, nofollow`.
-Photos are royalty-free Unsplash images, resized and self-hosted as WebP.
+Static sample sites built by 7Acre Digital and served at https://7acredigital.com/landscaping-demos/.
+The public example is `sample/` (Mossgate Lawn Co., a fictional business).
